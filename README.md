@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 FullStack Developer
 -------------------
 
-🌟 Passionate Full-Stack Developer I am a dedicated full-stack developer with a strong focus on Spring and React. My journey in software development has equipped me with a diverse skill set, allowing me to tackle complex problems and deliver innovative solutions. 🔧 Skills & Technologies: Backend: Java, Spring Boot, RESTful APIs, Microservices Frontend: HTML, CSS, JavaScript, React, Bootstrap Databases: SQL, PL/SQL Tools & Platforms: Git, Docker, Kubernetes
+🌟 I am a passionate Full-Stack Developer with a strong focus on Spring and React. My journey in software development has equipped me with a diverse skill set, allowing me to tackle complex problems and deliver innovative solutions. 🔧 Skills & Technologies: Backend: Java, Spring Boot, RESTful APIs, Microservices Frontend: HTML, CSS, JavaScript, React, Bootstrap Databases: SQL, PL/SQL Tools & Platforms: Git, Docker, Kubernetes
 
 * 🌍  I'm based in Bucharest
 * ✉️  You can contact me at [ciocan.ionut11@yahoo.com](mailto:ciocan.ionut11@yahoo.com)
